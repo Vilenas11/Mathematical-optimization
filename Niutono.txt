@@ -1,0 +1,43 @@
+iteracija:  1
+reiksme:  5
+Zingsnio ilgis:  1.47887323943662
+
+iteracija:  2
+reiksme:  3.52112676056338
+Zingsnio ilgis:  0.890844902084496
+
+iteracija:  3
+reiksme:  2.630281858478884
+Zingsnio ilgis:  0.458137938837361
+
+iteracija:  4
+reiksme:  2.172143919641523
+Zingsnio ilgis:  0.1536298347245273
+
+iteracija:  5
+reiksme:  2.018514084916996
+Zingsnio ilgis:  0.01826244067771965
+
+iteracija:  6
+reiksme:  2.000251644239276
+Zingsnio ilgis:  0.00025159675959773864
+
+####################################
+iteracija:  1
+reiksme x0 :  5
+Zingsnio ilgis:  1.47887323943662
+iteracija:  2
+reiksme x1 :  3.52112676056338
+Zingsnio ilgis:  0.890844902084496
+iteracija:  3
+reiksme x2 :  2.630281858478884
+Zingsnio ilgis:  0.458137938837361
+iteracija:  4
+reiksme x3 :  2.172143919641523
+Zingsnio ilgis:  0.1536298347245273
+iteracija:  5
+reiksme x4 :  2.018514084916996
+Zingsnio ilgis:  0.01826244067771965
+iteracija:  6
+reiksme x5 :  2.000251644239276
+Zingsnio ilgis:  0.00025159675959773864
